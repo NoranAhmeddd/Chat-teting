@@ -1,0 +1,9 @@
+chatApp\Controller.class
+com\example\PrimaryController.class
+chatApp\ClientHandler.class
+com\example\SecondaryController.class
+module-info.class
+com\example\App.class
+chatApp\Server.class
+chatApp\Main.class
+chatApp\Client.class
